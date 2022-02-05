@@ -6,12 +6,59 @@ uid: a071807e-5528-4ae4-6eac-8a2fbe0aa69f
 
 The projects are due during the session listed in the table below.
 
-| SES # | PROJECTS |
-| --- | --- |
-| 4 | Small Project 1 ([PDF]({{< baseurl >}}/resources/sm1)) |
-| 7 | Small Project 2 ([PDF]({{< baseurl >}}/resources/sm2)) |
-| 15 | Project 1 ([PDF]({{< baseurl >}}/resources/proj1))  {{< br >}}  {{< br >}}Updated Project Instructions ([PDF]({{< baseurl >}}/resources/proj1rev)) |
-| 17 | Small Project 3 ([PDF]({{< baseurl >}}/resources/sp3)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+PROJECTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Small Project 1 ([PDF]({{< baseurl >}}/resources/sm1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Small Project 2 ([PDF]({{< baseurl >}}/resources/sm2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1 ([PDF]({{< baseurl >}}/resources/proj1))  
+  
+Updated Project Instructions ([PDF]({{< baseurl >}}/resources/proj1rev))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Small Project 3 ([PDF]({{< baseurl >}}/resources/sp3))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 These final projects do not relate to the ones above. They were handed out to students separately and their topic is unique.
 
