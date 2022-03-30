@@ -3,6 +3,7 @@ content_type: resource
 description: Outline of Lecture 9.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-413-error-correcting-codes-laboratory-spring-2004/2eb3152fd9bef9307e97d393de620d1b_lect9.pdf
 file_type: application/pdf
+parent_uid: c2566f19-17cc-4273-5d12-16a28adb0fee
 resourcetype: Document
 title: lect9.pdf
 uid: 2eb3152f-d9be-f930-7e97-d393de620d1b

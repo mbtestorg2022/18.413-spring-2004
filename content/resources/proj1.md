@@ -6,6 +6,7 @@ description: 'Instructions and guidelines for Project 1. In this project,you are
   how well they work.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-413-error-correcting-codes-laboratory-spring-2004/99350006ac1401df412cbff5c3ac6df9_proj1.pdf
 file_type: application/pdf
+parent_uid: a071807e-5528-4ae4-6eac-8a2fbe0aa69f
 resourcetype: Document
 title: proj1.pdf
 uid: 99350006-ac14-01df-412c-bff5c3ac6df9

@@ -6,6 +6,7 @@ description: 'Instructions and guidelines for Small Project 2. In this project, 
   parity ?check codes presented in the lecture.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-413-error-correcting-codes-laboratory-spring-2004/4aeda865e05e62465d79225510a2efa7_sm2.pdf
 file_type: application/pdf
+parent_uid: a071807e-5528-4ae4-6eac-8a2fbe0aa69f
 resourcetype: Document
 title: sm2.pdf
 uid: 4aeda865-e05e-6246-5d79-225510a2efa7

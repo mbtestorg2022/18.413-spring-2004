@@ -4,6 +4,7 @@ description: Sample of a student's final project. This final project report cour
   of Sarah Lieberman.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-413-error-correcting-codes-laboratory-spring-2004/87da690b68852d4cee2b5251c83d7c45_final_proj_stuff.pdf
 file_type: application/pdf
+parent_uid: a071807e-5528-4ae4-6eac-8a2fbe0aa69f
 resourcetype: Document
 title: final_proj_stuff.pdf
 uid: 87da690b-6885-2d4c-ee2b-5251c83d7c45
